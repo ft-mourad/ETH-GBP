@@ -7,6 +7,6 @@ The api documentation is  https://fr.cryptonator.com/api
 The script is not flexible. You can't change the coin or the currency. 
 
 To-Do: 
--add market-cap too
--add capability to switch coin
--store past 10 values
+- add market-cap too
+- add capability to switch coin
+- store past 10 values
